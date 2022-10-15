@@ -1,6 +1,6 @@
 <center>
 <h1>👋 Hello!</h1>
-<p>My name is Maxim and I love programming. Now I am working on two of my projects - catlense & tpoksy. In addition to personal projects, I want to contribute to the Open Source Community</p>
+<p>My name is Maxim!</p>
 
 ✉️ Email: [max@voronin.xyz](mailto:max@voronin.xyz)
 
