@@ -1,6 +1,6 @@
 <center>
 <h1>👋 Hello!</h1>
-<p>My name is Maxim!</p>
+<p>My name is Maxim</p>
 
 ✉️ Email: [max@voronin.xyz](mailto:max@voronin.xyz)
 
